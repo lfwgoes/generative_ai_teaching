@@ -31,7 +31,7 @@ This project aims to provide educators with comprehensive materials on integrati
 ## How to Use These Resources
 
 1. Download the slide decks for visual presentations and key points.
-2. Listen to the accompanying podcasts if they seem useful (warning: AI generated, so it might contain mistakes).
+2. Downaload and listen to the accompanying podcasts if they seem useful (warning: AI generated, so it might contain mistakes).
 3. Use these materials to enhance your understanding of generative AI in education or as teaching resources in your own courses.
 
 ## Contributing
