@@ -9,8 +9,8 @@ This project aims to provide educators with comprehensive materials on integrati
 ## Materials
 
 ### 1. Introduction to Generative AI
-- [Download Slides](session1_introduction_ai.pptx)
-- 🎧 [Listen to Podcast](podcasts/01_intro_to_gen_ai_in_education.mp3)
+- [📥 Download Slides](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session1_introduction_ai.pptx)
+- [🎧 Download Podcast](https://github.com/YourUsername/YourRepoName/raw/main/podcasts/01_intro_to_gen_ai_in_education.mp3)
 
 ### 2. Prompt Engineering Basics
 - [Download Slides](slides/02_ai_applications_in_classroom.pptx)
