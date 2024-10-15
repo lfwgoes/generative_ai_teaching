@@ -42,8 +42,3 @@ We welcome contributions from educators, AI experts, and enthusiasts! If you hav
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
-
-For any questions or feedback, please open an issue in this repository or contact us at [your-email@example.com].
-
-Happy teaching with AI!
