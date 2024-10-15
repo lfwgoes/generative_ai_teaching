@@ -9,7 +9,7 @@ This project aims to provide educators with comprehensive materials on integrati
 ## Materials
 
 ### 1. Introduction to Generative AI
-- [Download Slides]([session1_introduction_ai.pptx]
+- [Download Slides](session1_introduction_ai.pptx)
 - 🎧 [Listen to Podcast](podcasts/01_intro_to_gen_ai_in_education.mp3)
 
 ### 2. Prompt Engineering Basics
