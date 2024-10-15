@@ -9,24 +9,24 @@ This project aims to provide educators with comprehensive materials on integrati
 ## Materials
 
 ### 1. Introduction to Generative AI
-- [📥 Download Slides (PDF)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pdf)
-- [📥 Download Slides (PPTX)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pptx)
-- [🎧 Download Podcast](https://github.com/YourUsername/YourRepoName/raw/main/podcasts/01_intro_to_gen_ai_in_education.mp3)
+- [📥 Download Slides (PDF)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session1_introduction_ai.pdf)
+- [📥 Download Slides (PPTX)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session1_introduction_ai.pptx)
+- [🎧 Download Podcast](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session1_podcast.mp3)
 
 ### 2. Prompt Engineering Basics
-- [📥 Download Slides (PDF)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pdf)
-- [📥 Download Slides (PPTX)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pptx)
-- [🎧 Download Podcast](https://github.com/YourUsername/YourRepoName/raw/main/podcasts/01_intro_to_gen_ai_in_education.mp3)
+- [📥 Download Slides (PDF)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session2_prompt_engineering.pdf)
+- [📥 Download Slides (PPTX)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session1_prompt_engineering.pptx)
+- [🎧 Download Podcast](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session2_podcast.mp3)
 
 ### 3. Teaching with Generative AI
-- [📥 Download Slides (PDF)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pdf)
-- [📥 Download Slides (PPTX)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pptx)
-- [🎧 Download Podcast](https://github.com/YourUsername/YourRepoName/raw/main/podcasts/01_intro_to_gen_ai_in_education.mp3)
+- [📥 Download Slides (PDF)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session3_teaching_with_ai.pdf)
+- [📥 Download Slides (PPTX)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session3_teaching_with_ai.pptx)
+- [🎧 Download Podcast](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session3_podcast.mp3)
 
 ### 4. Toolkit for Teaching with AI
-- [📥 Download Slides (PDF)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pdf)
-- [📥 Download Slides (PPTX)](https://github.com/YourUsername/YourRepoName/raw/main/slides/01_intro_to_gen_ai_in_education.pptx)
-- [🎧 Download Podcast](https://github.com/YourUsername/YourRepoName/raw/main/podcasts/01_intro_to_gen_ai_in_education.mp3)
+- [📥 Download Slides (PDF)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session4_ai_teaching_toolkit.pdf)
+- [📥 Download Slides (PPTX)](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session4_ai_teaching_toolkit.pptx)
+- [🎧 Download Podcast](https://github.com/lfwgoes/generative_ai_teaching/blob/main/session4_podcast.mp3)
 
 ## How to Use These Resources
 
